@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+	<filename>4.jpg</filename>
+	<size>
+		<width>4096</width>
+		<height>3072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Title</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2419</xmin>
+			<ymin>1742</ymin>
+			<xmax>2748</xmax>
+			<ymax>2783</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Title</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>1520</ymin>
+			<xmax>597</xmax>
+			<ymax>2805</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Figure</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>295</ymin>
+			<xmax>4096</xmax>
+			<ymax>2887</ymax>
+		</bndbox>
+	</object>
+</annotation>
